@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chetas_shree" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chetas_shree" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chetas shree .m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetas shree .m" height="30" width="40" /></a>
+<a href="https://twitter.com/ChetasShree?s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chetas_shree" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chetas-shree-m-128a941b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetas shree .m" height="30" width="40" /></a>
 <a href="https://instagram.com/chetasshree_creations" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chetasshree_creations" height="30" width="40" /></a>
 </p>
 
