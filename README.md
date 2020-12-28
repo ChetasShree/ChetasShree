@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chetas Shree.M</h1>
+<h1 align="center">Hi 👋, I'm Chetas Shree.M</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
