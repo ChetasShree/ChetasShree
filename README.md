@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **chetas105@gmail.com**
+- 📫 How to reach me **chetasshreecodes@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
