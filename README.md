@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny XD**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p></h3>
 <p align="left">
 <a href="https://twitter.com/ChetasShree?s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chetas_shree" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chetas-shree-m-128a941b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chetas shree .m" height="30" width="40" /></a>
