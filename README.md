@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I think I am funny XD**
 
   
-<img src="https://badges.pufler.dev/visits/ChetasShree/ChetasShree">
+
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
 <p align="left">
 <a href="https://twitter.com/ChetasShree?s=08" target="blank"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="chetas_shree" height="30" width="40" /></a>
