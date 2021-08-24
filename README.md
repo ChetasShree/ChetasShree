@@ -31,3 +31,10 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="git" width="40" height="40"/></code> 
 <code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true" alt="canva" width="40" height="40"/></code> 
+  
+<summary>✅ GitHub Analytics</summary>
+<p align="left">
+<a href="https://github.com/ChetasShree">
+  <img height="160em" src="https://github-readme-stats-git-master-manojuppala.vercel.app/api?username=ChetasShree&&show_icons=true&title_color=56db67&icon_color=3DEA6F&text_color=f2c744&bg_color=000000" />
+</a>
+</p>
