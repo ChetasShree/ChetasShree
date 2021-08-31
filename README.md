@@ -5,7 +5,7 @@
 <h2> I'm Chetas Shree, a Freshman pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning Data Structures and Algorithms
 
 - 📫 How to reach me **chetasshreecodes@gmail.com**
 
