@@ -5,7 +5,7 @@
 <h2> I'm Chetas Shree, a Sophomore pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Flutter
 
 - 📫 How to reach me **chetasshreecodes@gmail.com**
 
@@ -22,13 +22,14 @@
 
 <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:  </h3>
 <p align="left">
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="git" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="git" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git" width="40" height="40"/></code>
+<code><img src="https://user-images.githubusercontent.com/75165587/132661148-e0ab1572-56bf-4f24-b77e-df45b313c9c4.png" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="git" width="40" height="40"/></code> 
 <code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true" alt="canva" width="40" height="40"/></code> 
   
