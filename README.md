@@ -39,3 +39,6 @@
   <img height="160em" src="https://github-readme-stats-git-master-manojuppala.vercel.app/api?username=ChetasShree&&show_icons=true&title_color=56db67&icon_color=3DEA6F&text_color=f2c744&bg_color=000000" />
 </a>
 </p>
+
+## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/ChetasShree/ChetasShree/blob/output/github-contribution-grid-snake.svg)
