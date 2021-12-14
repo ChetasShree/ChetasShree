@@ -13,14 +13,14 @@
 
   
 
-<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
+<summary align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></summary>
 <p align="left">
 <a href="https://twitter.com/ChetasShree?s=08" target="blank"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="chetas_shree" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chetas-shree-m-128a941b7" target="blank"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="chetas shree .m" height="30" width="40" /></a>
 <a href="https://instagram.com/chetasshree_creations" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75165587/119674243-ad12f680-be59-11eb-9416-7b00e0b992df.png" alt="chetasshree_creations" height="30" width="40" /></a><a href = 'https://www.github.com/ChetasShree'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a><a href = 'https://chetasshree.medium.com/100daysofcode-challenge-challenge-accepted-and-completed-3d50d88dd620'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
 </p>
 
-<h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:  </h3>
+<summary align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:  </summary> 
 <p align="left">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="git" width="40" height="40"/></code>
