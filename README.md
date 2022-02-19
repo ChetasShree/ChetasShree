@@ -24,7 +24,7 @@
 <p align="left">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git" width="40" height="40"/></code>
+<!-- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git" width="40" height="40"/></code> -->
 <code><img src="https://user-images.githubusercontent.com/75165587/132661148-e0ab1572-56bf-4f24-b77e-df45b313c9c4.png" alt="git" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="git" width="40" height="40"/></code>
