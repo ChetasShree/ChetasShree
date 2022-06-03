@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chetas Shree.M  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Chetas Shree.M  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="40px"></h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -20,7 +20,7 @@
 <a href="https://instagram.com/chetasshree_creations" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75165587/119674243-ad12f680-be59-11eb-9416-7b00e0b992df.png" alt="chetasshree_creations" height="30" width="40" /></a><a href = 'https://www.github.com/ChetasShree'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a><a href = 'https://chetasshree.medium.com/100daysofcode-challenge-challenge-accepted-and-completed-3d50d88dd620'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
 </p>
 
-<h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:  </h3> 
+<h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height="40px"> Languages and Tools:  </h3> 
 <p align="left">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="git" width="40" height="40"/></code>
@@ -34,14 +34,14 @@
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="git" width="40" height="40"/></code> 
 <code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true" alt="canva" width="40" height="40"/></code> 
   
-<h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Analytics</h3>
+<h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="40px">&nbsp; GitHub Analytics</h3>
 <p align="left">
 <a href="https://github.com/ChetasShree">
   <img height="160em" src="https://github-readme-stats-git-master-manojuppala.vercel.app/api?username=ChetasShree&&show_icons=true&title_color=56db67&icon_color=3DEA6F&text_color=f2c744&bg_color=000000" />
 </a>
 </p>
 
-<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; GitHub Streak</h3>
+<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" height="40px">&nbsp; GitHub Streak</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChetasShree&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
