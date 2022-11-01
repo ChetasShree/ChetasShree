@@ -2,12 +2,12 @@
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<h2> I'm Chetas Shree, a Sophomore pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
+<h2> I'm Chetas Shree, a pre-final year student pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 
 
 - 🌱 I’m currently learning Flutter
 
-- 📫 How to reach me **chetasshreecodes@gmail.com**
+- 📫 Reach me -> **chetasshreecodes@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
