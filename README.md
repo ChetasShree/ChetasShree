@@ -11,6 +11,16 @@
 
 - ⚡ Fun fact **I think I am funny XD**
 
+## 📱 Flutter Projects
+
+| Project | Repository |
+|----------|------------|
+| 🐱 Pokemon App | [View Project](https://github.com/ChetasShree/pokemonapp_flutter) |
+| 🎬 Movie App | [View Project](https://github.com/ChetasShree/movie_app_flutter) |
+| 🧠 Quiz App | [View Project](https://github.com/ChetasShree/quizapp_flutter) |
+| 💬 Flash Chat App | [View Project](https://github.com/ChetasShree/flash_chat_flutter) |
+| 📸 Insthetic Social Media App | [View Project](https://github.com/ChetasShree/instethic_social_media) |
+
   
 
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
